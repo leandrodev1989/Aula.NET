@@ -6,7 +6,7 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Deus é Fiel!");
         }
     }
 }
